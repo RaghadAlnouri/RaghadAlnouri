@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RaghadAlnouri
-- 👀 I’m a pure mathematician & data analyst working to better designing and optimizing data & artificial intelligence solutions in the Cloud   
-- 🌱 My expertise includes project design and management, data analysis and interpretation, and the optimization and implementation of the cloud tools 
-- 🎓  I have a masters degree in Differential Geometry from UQAM, and a professional certificate in Data Science & Machine Learning from McGill
-- 💞️ I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My colleagues would describe me as a driven, energetic individual who maintains a positive, proactive attitude under most circumstances.
-- 📫 How to reach me? Eiether on my personal email: raghad.alnouri@gmail.com or my proffesional one: raghad.alnouri@slalom.com
+- 👋 Hi, I’m @RaghadAlnouri, a Field Solutions Developer I, Gen AI @Google.
+- 👀 I’m a passionate mathematician, data scientist, and machine learning (ML) engineer with 3+ years of experience in the tech industry.  I am an  and Databricks. I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems  
+- 🌱 My expertise includes developing and deploying ML models that solve real-world problems, Python, SQL, PySpark and Gnereative AI enthusiast.
+- 🎓  I hole a masters degree in Mathematics from Université du Québec à Montréal (UQAM), Associte degrees in Data Scince, Machine Learning, Applied AI from McGill University.
+- 💞️ I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems
+- 📫 How to reach me? Eiether on my personal email: raghad.alnouri@gmail.com or my proffesional one: raghadalnouri@google.com
 - Twitter @raghadalnouri
 
 <!---
