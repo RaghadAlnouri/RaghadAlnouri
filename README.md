@@ -1,4 +1,4 @@
-- # [👋 Hi, I’m Raghad]
+- # 👋 Hi, I’m Raghad
 - 🔵🔴🟡🟢 Currently, I am a Field Solutions Developer I, Gen AI @Google.
 - 👀 I’m a passionate mathematician, data scientist, and machine learning (ML) engineer with 3+ years of experience in the tech industry.  I am an  and Databricks. I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems  
 - 🌱 My expertise includes developing and deploying ML models that solve real-world problems, Python, SQL, PySpark and Gnereative AI enthusiast.
