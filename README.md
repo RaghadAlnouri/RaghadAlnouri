@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @RaghadAlnouri, a Field Solutions Developer I, Gen AI @Google.
+- # [👋 Hi, I’m Raghad]
+- 🔵🔴🟡🟢 Currently, I am a Field Solutions Developer I, Gen AI @Google.
 - 👀 I’m a passionate mathematician, data scientist, and machine learning (ML) engineer with 3+ years of experience in the tech industry.  I am an  and Databricks. I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems  
 - 🌱 My expertise includes developing and deploying ML models that solve real-world problems, Python, SQL, PySpark and Gnereative AI enthusiast.
-- 🎓  I hole a masters degree in Mathematics from Université du Québec à Montréal (UQAM), Associte degrees in Data Scince, Machine Learning, Applied AI from McGill University.
+- 🎓  I hold a masters degree in Mathematics from Université du Québec à Montréal (UQAM), Associte degrees in Data Scince, Machine Learning and Applied Artificial Intelligence from McGill University.
 - 💞️ I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems
 - 📫 How to reach me? Eiether on my personal email: raghad.alnouri@gmail.com or my proffesional one: raghadalnouri@google.com
 - Twitter @raghadalnouri
