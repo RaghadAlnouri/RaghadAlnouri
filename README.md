@@ -1,11 +1,14 @@
-- # 👋 Hi, I’m Raghad
-- 🔵🔴🟡🟢 Currently, I am a Field Solutions Developer I, Gen AI @Google.
-- 👀 I’m a passionate mathematician, data scientist, and machine learning (ML) engineer with 3+ years of experience in the tech industry.  I am an  and Databricks. I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems  
-- 🌱 My expertise includes developing and deploying ML models that solve real-world problems, Python, SQL, PySpark and Gnereative AI enthusiast.
-- 🎓  I hold a masters degree in Mathematics from Université du Québec à Montréal (UQAM), Associte degrees in Data Scince, Machine Learning and Applied Artificial Intelligence from McGill University.
-- 💞️ I excel at transforming complex data into valuable insights to drive informed business decisions and always looking for innovative ways to solve problems
-- 📫 How to reach me? Eiether on my personal email: raghad.alnouri@gmail.com or my proffesional one: raghadalnouri@google.com
-- Twitter @raghadalnouri
+#  Hi, I’m Raghad! 👋
+- __Field Solutions Architect, Gen AI @ Google__ 🔵🔴🟡🟢 
+- __Passionate mathematician, data scientist, and machine learning engineer__ with 3+ years of experience in the tech industry. I excel at __transforming complex data into actionable insights__ to drive informed business decisions and am constantly seeking innovative solutions to real-world problems.
+- __Expertise__ includes developing and deploying machine learning models, Python, SQL, PySpark, and a strong interest in generative AI.
+- __Education:__
+  + Master's degree in Mathematics from Université du Québec à Montréal (UQAM)
+  + Associate degrees in Data Science, Machine Learning, and Applied Artificial Intelligence from McGill University
+- __Connect with me!__ 📫
+  + Email: raghad.alnouri@gmail.com (personal) or raghadalnouri@google.com (professional)
+  + Twitter: @raghadalnouri
+  + LinkedIn <https://www.linkedin.com/in/raghad-alnouri-233122134/>
 
 <!---
 RaghadAlnouri/RaghadAlnouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
