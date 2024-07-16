@@ -1,6 +1,6 @@
 #  Hi, I’m Raghad! 👋
 - __Field Solutions Architect, Generative AI @ Google__ 🔵🔴🟡🟢 
-- __AI/ML Field Solutions Architect at Google Cloud__, driving innovation by incubating, piloting, and deploying cutting-edge AI/ML and Generative AI technologies. Trusted advisor to customers, architecting solutions spanning Data, AI, and Infrastructure. Expertise 
+- __AI/ML Field Solutions Architect at Google Cloud__, driving innovation by incubating, piloting, and deploying cutting-edge AI/ML and Generative AI technologies. Trusted advisor to customers, architecting solutions spanning Data, AI, and Infrastructure.
 - __Expertise__ in optimizing model performance, troubleshooting, and building repeatable technical assets.
 - __Education:__
   + Master's degree in Mathematics from Université du Québec à Montréal (UQAM)
